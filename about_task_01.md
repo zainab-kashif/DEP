@@ -1,1 +1,1 @@
-The zip file named "task_01.zip" contains the code for simple CRUD(Create, Read, Update and Delete) Application which can be imported in netbeans and code can also be modified according to requirement.
+The zip file named "task_01.zip" contains the code for simple CRUD(Create, Read, Update and Delete) Application in Java which can be imported in netbeans and code can also be modified according to requirement.
