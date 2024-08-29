@@ -1,0 +1,2 @@
+The zip file named "task_04.zip" contains the code for Distributed System using Java RMI(Remote Method Invocation) which can be imported in netbeans and code can also be modified according to requirement.
+This distributed system is designed in such a way that the client can retrieve resource (here means files) if and only if they are being shared by server or we can say available on server. Otherwise, the message “File not available on server” will be displayed. If the file retrieves, it will be opened automatically
